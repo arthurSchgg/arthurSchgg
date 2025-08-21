@@ -36,6 +36,7 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
 ## 📫 Como me encontrar:
 
 - 📩 Email: [arthurms2904@gmail.com](mailto:arthurms2904@gmail.com)
+- ☎ Telefone: 
 
 ---
 
