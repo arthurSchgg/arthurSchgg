@@ -40,6 +40,9 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
 ---
 
 ## 📫 **Como me encontrar:**
+[![Email](https://img.shields.io/badge/Email-arthurms2904@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurms2904@gmail.com)
+[![Telefone](https://img.shields.io/badge/Telefone-Mande%20mensagem%20para%20mim-blue?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547997695223)
+[![Instagram](https://img.shields.io/badge/Instagram-Meu%20Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_thursch/)
 
 - 📩 **Email:** [arthurms2904@gmail.com](mailto:arthurms2904@gmail.com)
 - ☎ **Telefone:** [Mande mensagem para mim](https://wa.me/5547997695223)
