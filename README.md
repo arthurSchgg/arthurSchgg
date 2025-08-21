@@ -14,6 +14,8 @@
 
 ## 🛠 Tecnologias que uso
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+
 Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecimento:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
