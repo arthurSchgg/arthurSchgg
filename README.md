@@ -20,6 +20,4 @@
 
 ---
 
-✨ Obrigado por visitar meu perfil! ✨  
-
-![Thanks](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+![Obrigado por visitar meu perfil](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
