@@ -20,4 +20,5 @@
 
 ---
 
-![Obrigado por visitar meu perfil](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Obrigado por visitar meu perfil](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
