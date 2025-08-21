@@ -29,7 +29,7 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
 
 ## ✨ Meus Projetos Principais
 
-![FlaskGamer](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=FlaskGamer-1&theme=dracula)
+![Flask](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Flask-1&theme=dracula)
 
 ---
 
