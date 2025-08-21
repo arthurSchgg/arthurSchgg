@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Arthur Miguel Schlichting
 
-🎓 Estudante do **CentroWEG** e do **SENAI** no curso de **Desenvolvimento de Sistemas**
+🎓 Estudante do **CentroWEG** e do **SENAI** no curso de **Desenvolvimento de Sistemas**, com conhecimento básico-médio em **inglês**.
 
 📚 Atualmente estudando e praticando:
 - ☕ Java
