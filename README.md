@@ -1,24 +1,27 @@
 # 👋 Olá, eu sou o Arthur Miguel Schlichting
 
-🎓 Estudante do **CentroWEG** e do **SENAI** no curso de **Desenvolvimento de Sistemas**  
-📚 Atualmente estudando e praticando:
+🎓 Estudante do **CentroWEG** e do **SENAI** no curso de **Desenvolvimento de Sistemas**
 
-- ☕ Java  
-- 🐍 Python  
-- 🌐 JavaScript  
-- 🖥️ HTML  
+📚 Atualmente estudando e praticando:
+- ☕ Java
+- 🐍 Python
+- 🌐 JavaScript
+- 🖥️ HTML
+
+---
+
+## 💻 Tecnologias que uso
+
+![image_558125.png](http://googleusercontent.com/file_content/0)
 
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=dracula)
+
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMiguelSchlichting&show_icons=true&theme=dracula)
 
 ---
 
 ## 📫 Como me encontrar:
+
 - ✉️ Email: [arthurms2904@gmail.com](mailto:arthurms2904@gmail.com)
-
----
-
-![Obrigado por visitar meu perfil](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
