@@ -41,9 +41,15 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
 
 ## 📫 **Como me encontrar:**
 
-[![Email](https://img.icons8.com/ios-glyphs/30/000000/new-post.png)](mailto:arthurms2904@gmail.com)
-[![WhatsApp](https://img.icons8.com/ios-glyphs/30/000000/whatsapp.png)](https://wa.me/5547997695223)
-[![Instagram](https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png)](https://www.instagram.com/_thursch/)
+<a href="mailto:arthurms2904@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" alt="Email" />
+</a>
+<a href="https://wa.me/5547997695223">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" alt="WhatsApp" />
+</a>
+<a href="https://www.instagram.com/_thursch/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" alt="Instagram" />
+</a>
 
 ---
 
