@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Arthur Miguel Schlichting
 
-<!--
-**arthurSchgg/arthurSchgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do **CentroWEG** e do **SENAI** no curso de **Desenvolvimento de Sistemas**  
+📚 Atualmente estudando e praticando:
 
-Here are some ideas to get you started:
+- ☕ Java  
+- 🐍 Python  
+- 🌐 JavaScript  
+- 🖥️ HTML  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Minhas Estatísticas no GitHub
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=dracula)
+
+---
+
+## 📫 Como me encontrar:
+- ✉️ Email: [arthurms2904@gmail.com](mailto:arthurms2904@gmail.com)
+
+---
+
+✨ Obrigado por visitar meu perfil! ✨  
+
+![Thanks](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
