@@ -1,18 +1,18 @@
-# 👋 Olá, eu sou o Arthur Miguel Schlichting
+# 👋 **Olá, eu sou o Arthur Miguel Schlichting**
 
 🎓 Estudante do **_CentroWEG_** e do **_SENAI_** no curso de **_Desenvolvimento de Sistemas_**, com conhecimento básico-médio em **_Inglês_**.
 
-📚 Atualmente estudando e praticando:
-- ☕ Java
-- 🐍 Python
-- 🌐 JavaScript
-- 🖥️ HTML
-- 🗄️ MySQL
-- 🐍 Flask
+📚 **Atualmente estudando e praticando:**
+- ☕ **Java**
+- 🐍 **Python**
+- 🌐 **JavaScript**
+- 🖥️ **HTML**
+- 🗄️ **MySQL**
+- 🐍 **Flask**
 
 ---
 
-## 🛠 Tecnologias que uso
+## 🛠 **Tecnologias que uso**
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=radical)
 
@@ -27,23 +27,23 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
 
 ---
 
-## 🧑‍💻 Meus Projetos Principais
+## 🧑‍💻 **Meus Projetos Principais:**
 
 ![Flask](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Flask&theme=dracula)
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 📊 **Minhas Estatísticas no GitHub:**
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=dracula)
 
 ---
 
-## 📫 Como me encontrar:
+## 📫 **Como me encontrar:**
 
-- 📩 Email: [arthurms2904@gmail.com](mailto:arthurms2904@gmail.com)
-- ☎ Telefone: [Mande mensagem para mim](https://wa.me/5547997695223)
-- 📸 Instagram: [Meu Instagram](https://www.instagram.com/_thursch/)
+- 📩 **Email:** [arthurms2904@gmail.com](mailto:arthurms2904@gmail.com)
+- ☎ **Telefone:** [Mande mensagem para mim](https://wa.me/5547997695223)
+- 📸 **Instagram:** [Meu Instagram](https://www.instagram.com/_thursch/)
 
 ---
 
