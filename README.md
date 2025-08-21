@@ -24,4 +24,4 @@
 
 ---
 
-http://googleusercontent.com/image_generation_content/0
+- Obrigado por visitar o meu perfil. Volte sempre 
