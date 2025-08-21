@@ -37,6 +37,7 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
 
 - 📩 Email: [arthurms2904@gmail.com](mailto:arthurms2904@gmail.com)
 - ☎ Telefone: [Mande mensagem para mim](https://wa.me/5547997695223)
+- 🅾 Instagram: [Meu Instagram](https://www.instagram.com/_thursch/)
 
 ---
 
