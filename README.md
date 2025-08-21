@@ -14,7 +14,7 @@
 
 ## 🛠 Tecnologias que uso
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=radical)
 
 Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecimento:
 
