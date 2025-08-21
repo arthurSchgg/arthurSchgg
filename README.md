@@ -20,4 +20,4 @@
 
 ---
 
-![Obrigado por visitar meu perfil](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Obrigado por visitar meu perfil](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
