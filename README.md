@@ -7,12 +7,8 @@
 - 🐍 Python
 - 🌐 JavaScript
 - 🖥️ HTML
-
----
-
-## 💻 Tecnologias que uso
-
-![image_558125.png](http://googleusercontent.com/file_content/0)
+- 🗄️ MySQL
+- 🐍 Flask
 
 ---
 
