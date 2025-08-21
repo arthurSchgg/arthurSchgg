@@ -12,10 +12,12 @@
 
 ---
 
-## 🛠 **Tecnologias que uso**
+## 📊 **Minhas Estatísticas no GitHub: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** 🛠 **Tecnologias que uso:**
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=radical)
-
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=radical" width="42%" />
+</p>
 Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecimento:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -31,11 +33,6 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
 
 ![Flask](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Flask&theme=dracula)
 
----
-
-## 📊 **Minhas Estatísticas no GitHub:**
-
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=dracula)
 
 ---
 
@@ -45,12 +42,13 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" alt="Email" />
 </a>
 <a href="https://wa.me/5547997695223">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/whatsApp.png" width="30" alt="WhatsApp" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" alt="WhatsApp" />
 </a>
 <a href="https://www.instagram.com/_thursch/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" alt="Instagram" />
 </a>
 
+  
 ---
 
 **_Obrigado por visitar meu perfil. Volte Sempre🙏_**
