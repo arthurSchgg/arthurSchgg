@@ -41,4 +41,4 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
 
 ---
 
-![Obrigado por visitar](assets/obrigado.gif)
+**_Obrigado por visitar meu perfil. Volte Sempre🙏_**
