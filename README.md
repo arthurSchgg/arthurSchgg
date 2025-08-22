@@ -51,4 +51,6 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
   
 ---
 
-**_Obrigado por visitar meu perfil. Volte Sempre🙏_**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ADD8E6&center=true&vCenter=true&lines=Obrigado+pela+visita!+🚀;Volte+sempre+🙏" alt="Obrigado pela visita!">
+</h1>
