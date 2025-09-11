@@ -37,7 +37,7 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=arthurSchgg&style=for-the-badge&color=000000)
+![Visualizações do meu Perfil](https://komarev.com/ghpvc/?username=arthurSchgg&label=VISUALIZA%C3%87%C3%95ES&color=000000)
 
 ---
 
