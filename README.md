@@ -36,6 +36,9 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
 ![Flask](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Flask&theme=dracula)
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=arthurSchgg&style=for-the-badge&color=000000)
+
 ---
 
 ## 📫 **Como me encontrar:**
