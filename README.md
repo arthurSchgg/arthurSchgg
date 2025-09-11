@@ -31,6 +31,10 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
+---
+![Profile views](https://komarev.com/ghpvc/?username=arthurSchgg&style=for-the-badge&color=000000)
+
+---
 
 ## 🧑‍💻 **Meus Projetos Principais:**
 
