@@ -36,6 +36,12 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Notepad](https://img.shields.io/badge/Notepad-000000?style=for-the-badge&logo=windows-notepad&logoColor=white)
+![Oracle VM VirtualBox](https://img.shields.io/badge/Oracle_VM_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-FF3E00?style=for-the-badge&logo=node-red&logoColor=white)
 
 ---
 ## 🧑‍💻 **Meus Projetos Principais:**
