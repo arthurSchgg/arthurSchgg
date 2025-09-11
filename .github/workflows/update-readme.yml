@@ -1,0 +1,23 @@
+name: Update visitor count on README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update-visitor-count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README
+        uses: josh-newman/visitor-badge-action@v1
+        with:
+          readmePath: 'README.md'
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          path: './'
+          label: 'Visitors'
+          color: 'black'
+          style: 'for-the-badge'
