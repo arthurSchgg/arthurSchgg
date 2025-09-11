@@ -33,7 +33,7 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
 ---
 ## 🧑‍💻 **Meus Projetos Principais:**
 
-![Flask](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Flask&theme=dracula) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Gerenciamento de Bibliotecas](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Flask&theme=dracula)
+![Flask](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Flask&theme=dracula&width="400%") &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Gerenciamento de Bibliotecas](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Gerenciamento-de-Biblioteca&theme=dracula)
 
 ---
 
