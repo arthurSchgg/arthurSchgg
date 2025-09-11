@@ -16,8 +16,8 @@
 ## 📊 **Minhas Estatísticas no GitHub: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** 🛠 **Tecnologias que uso:**
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=radical" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=radical" width="42%" />
 </p>
 Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecimento:
 
@@ -35,6 +35,7 @@ Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecim
 
 ![Flask](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Flask&theme=dracula)
 
+---
 ---
 
 ## 📫 **Como me encontrar:**
