@@ -7,10 +7,8 @@
 - 🐍 **Python**
 - 🌐 **JavaScript**
 - 🖥️ **HTML**
-- 🗄️ **MySQL**
+- 🗄️ **SQL**
 - 🐍 **Flask**
-- 🖥️ **Bootstrap**
-
 ---
 
 ## &nbsp;&nbsp;📊 **Minhas Estatísticas no GitHub: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** 🛠 **Tecnologias que uso:**
@@ -19,7 +17,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=radical" width="42%" />
 </p>
-Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecimento:
+
+**_Aqui estão algumas das tecnologias e ferramentas que eu tenho um breve conhecimento:_**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
