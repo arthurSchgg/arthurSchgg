@@ -52,6 +52,10 @@
 
 ---
 
+[![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&bg_color=000000&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 📫 **Como me encontrar:**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurms2904@gmail.com)
