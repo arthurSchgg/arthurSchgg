@@ -44,7 +44,7 @@
 ---
 ## 🧑‍💻 **Meus Projetos Principais:**
 
-![Flask](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Flask&theme=dracula) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Gerenciamento de Bibliotecas](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Gerenciamento-de-Biblioteca&theme=dracula)
+![Flask](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Sistema-de-Gerenciamento-Agencia-de-Viagens&theme=dracula) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Gerenciamento de Bibliotecas](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Gerenciamento-de-Biblioteca&theme=dracula)
 
 ---
 
