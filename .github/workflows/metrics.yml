@@ -1,13 +1,10 @@
-# .github/workflows/metrics.yml (VERSÃO CORRIGIDA)
+# .github/workflows/metrics.yml (VERSÃO CORRIGIDA DE VERDADE)
 
 name: GitHub Metrics
 on:
-  # Roda a cada 6 horas
   schedule:
     - cron: "0 */6 * * *"
-  # Permite rodar manualmente pela aba Actions
   workflow_dispatch:
-  # Roda também ao fazer push para o branch main
   push:
     branches:
       - "main"
@@ -29,7 +26,8 @@ jobs:
           filename: metrics.svg
           
           # --- A CORREÇÃO ESTÁ AQUI ---
-          # Usamos o 'template: classic' para poder usar o tema
-          template: classic
-          config_theme: tokyonight
-          # ---------------------------
+          # Este é o layout que você quer (da imagem do "Gabriel Ehrat")
+          base: header, activity, community, repositories
+          
+          # A linha 'config_theme' estava causando o Warning.
+          # Removemos ela por enquanto.
