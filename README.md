@@ -1,6 +1,6 @@
 # 👋 **Olá, eu sou o Arthur Miguel Schlichting**
 
-🎓 Estudante do **_CentroWEG_** e do **_SENAI_** no curso de **_Desenvolvimento de Sistemas_**, com conhecimento básico-médio em **_Inglês_**.
+🎓 Estudante do **_CentroWEG_** e do **_SENAI_** no curso de **_Desenvolvimento de Sistemas_**, com conhecimento básico em **_Inglês_**.
 
 📚 **Atualmente estudando e praticando:**
 - ☕ **Java**
@@ -53,6 +53,15 @@
 ---
 
 [![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&bg_color=000000&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=arthurSchgg&theme=tokyonight&exclude_days=Sun" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
