@@ -1,6 +1,7 @@
-# .github/workflows/metrics.yml (VERSÃO CORRIGIDA DE VERDADE)
+# .github/workflows/metrics.yml (VERSÃO FINAL COM PERMISSÕES)
 
 name: GitHub Metrics
+
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -9,6 +10,10 @@ on:
     branches:
       - "main"
       - "master"
+
+# ADICIONANDO ESTE BLOCO DE PERMISSÕES
+permissions:
+  contents: write # Permite que a Action escreva o arquivo metrics.svg no repositório
       
 jobs:
   metrics:
@@ -25,9 +30,5 @@ jobs:
           # Nome do arquivo de saída
           filename: metrics.svg
           
-          # --- A CORREÇÃO ESTÁ AQUI ---
-          # Este é o layout que você quer (da imagem do "Gabriel Ehrat")
+          # O layout que você quer (da imagem do Gabriel)
           base: header, activity, community, repositories
-          
-          # A linha 'config_theme' estava causando o Warning.
-          # Removemos ela por enquanto.
