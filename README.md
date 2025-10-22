@@ -12,7 +12,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas
+<h3 align="center">📊 Minhas Estatísticas</h3>
 
 <table>
   <tr>
@@ -20,15 +20,6 @@
       <p align="center">
         <a href="https://git.io/streak-stats">
           <img src="https://streak-stats.demolab.com?user=arthurSchgg&theme=tokyonight&exclude_days=Sun" alt="GitHub Streak" />
-          
-### 🛠️ Tecnologias e Ferramentas
-
----
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,flask,bootstrap,vscode,eclipse,virtualbox,anaconda,arduino,c,cpp,github&theme=dark&perline=10" />
-  </a>
-</p>
         </a>
       </p>
     </td>
@@ -40,7 +31,17 @@
 
 ---
 
-### 🧑‍💻 Meus Projetos Principais
+<h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,flask,bootstrap,vscode,eclipse,virtualbox,anaconda,arduino,c,cpp,github&theme=dark&perline=10" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🧑‍💻 Meus Projetos Principais</h3>
 
 <p align="center">
   <a href="https://github.com/arthurSchgg/Sistema-de-Gerenciamento-Agencia-de-Viagens">
@@ -52,20 +53,15 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&bg_color=0D1117&color=79D3C3&line=79D3C3&point=FFFFFF&area=true&hide_border=true" />
   </a>
-  
   <br>
-  
   <img src="https://komarev.com/ghpvc/?username=arthurSchgg&label=VISUALIZA%C3%87%C3%95ES&color=000000" />
 </p>
 
----
-
-### 📫 Como me encontrar
+<h3 align="center">📫 Como me encontrar</h3>
 
 <p align="center">
   <a href="mailto:arthurms2904@gmail.com">
