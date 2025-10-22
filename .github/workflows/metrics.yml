@@ -1,23 +1,36 @@
-# .github/workflows/metrics.yml
+# .github/workflows/metrics.yml (VERSÃO CORRIGIDA)
 
 name: GitHub Metrics
 on:
+  # Roda a cada 6 horas
   schedule:
     - cron: "0 */6 * * *"
+  # Permite rodar manualmente pela aba Actions
   workflow_dispatch:
+  # Roda também ao fazer push para o branch main
   push:
     branches:
       - "main"
       - "master"
-
+      
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Seu nome de usuário
           user: arthurSchgg
+          
+          # Token automático
           token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Nome do arquivo de saída
           filename: metrics.svg
-          base: header, activity, community, repositories
+          
+          # --- A CORREÇÃO ESTÁ AQUI ---
+          # Trocamos 'base: ...' por 'template: classic'
+          # para que o 'config_theme' funcione.
+          template: classic
           config_theme: tokyonight
+          # ---------------------------
