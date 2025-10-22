@@ -29,8 +29,7 @@ jobs:
           filename: metrics.svg
           
           # --- A CORREÇÃO ESTÁ AQUI ---
-          # Trocamos 'base: ...' por 'template: classic'
-          # para que o 'config_theme' funcione.
+          # Usamos o 'template: classic' para poder usar o tema
           template: classic
           config_theme: tokyonight
           # ---------------------------
