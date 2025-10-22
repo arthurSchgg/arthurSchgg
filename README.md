@@ -25,9 +25,11 @@
 
 ---
 
+### 🛠️ Tecnologias e Ferramentas
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,flask,bootstrap,vscode,jupyter,eclipse,intellij,pycharm,anaconda,pandas,arduino,c,cpp,virtualbox,nodered,git,github&theme=dark&perline=11" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,flask,bootstrap,vscode,eclipse,virtualbox,anaconda,arduino,c,cpp,github&theme=dark&perline=10" />
   </a>
 </p>
         </a>
