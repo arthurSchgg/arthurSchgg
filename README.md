@@ -24,9 +24,6 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 ---
-
-### 🛠️ Tecnologias e Ferramentas
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,html,css,js,flask,bootstrap,vscode,eclipse,virtualbox,anaconda,arduino,c,cpp,github&theme=dark&perline=10" />
