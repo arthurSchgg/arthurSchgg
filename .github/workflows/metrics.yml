@@ -1,0 +1,23 @@
+# .github/workflows/metrics.yml
+
+name: GitHub Metrics
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+      - "master"
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: arthurSchgg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.svg
+          base: header, activity, community, repositories
+          config_theme: tokyonight
