@@ -1,0 +1,33 @@
+# .github/workflows/metrics.yml
+
+name: GitHub Metrics
+on:
+  # Roda a cada 6 horas
+  schedule:
+    - cron: "0 */6 * * *"
+  # Permite rodar manualmente pela aba Actions
+  workflow_dispatch:
+  # Roda também ao fazer push para o branch main
+  push:
+    branches:
+      - "main"
+      - "master"
+      
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Seu nome de usuário do GitHub
+          user: arthurSchgg
+          
+          # Token automático do GitHub
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Nome do arquivo SVG que será gerado
+          filename: metrics.svg
+
+          # Configurações para replicar o visual da imagem
+          base: header, activity, community, repositories
+          config_theme: tokyonight
