@@ -53,6 +53,8 @@
   </a>
 </p>
 
+---
+
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&bg_color=0D1117&color=79D3C3&line=79D3C3&point=FFFFFF&area=true&hide_border=true" />
@@ -60,6 +62,8 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=arthurSchgg&label=VISUALIZA%C3%87%C3%95ES&color=000000" />
 </p>
+
+---
 
 <h3 align="center">📫 Como me encontrar</h3>
 
