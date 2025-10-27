@@ -1,34 +1,66 @@
-<h1 align="center">👋 Olá, eu sou o Arthur Miguel Schlichting</h1>
+<p align="center">
+  <strong><font size="6">👋 Olá, eu sou o Arthur Miguel Schlichting</font></strong>
+</p>
+
+---
 
 <p align="center">
   🎓 Estudante do <strong><em>CentroWEG</em></strong> e do <strong><em>SENAI</em></strong> no curso de <strong><em>Desenvolvimento de Sistemas</em></strong>, com conhecimento básico em <strong><em>Inglês</em></strong>.
 </p>
 
-<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
+---
+
+<br>
 
 <p align="center">
-<em>Atualmente focado em Java e SQL</em>
+  <strong><font size="5">🛠️ Tecnologias e Ferramentas</font></strong>
+</p>
+
+---
+
+<p align="center">
+  <em>Atualmente focado em Java e SQL</em>
   <br><br>
   <a href="https://skillicons.dev">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java,python,flask,js,html,css,bootstrap,sql,c,cpp,github,vscode,eclipse,anaconda,arduino&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,python,flask,js,html,css,bootstrap,sql,c,cpp,github,vscode,eclipse,anaconda,arduino&theme=dark&perline=8" />
   </a>
 </p>
 
-<h2 align="center">📊 Minhas Estatísticas</h2>
+<br>
+
+---
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=arthurSchgg&theme=tokyonight&exclude_days=Sun" alt="GitHub Streak" height="138px" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="185px" />
-  <br>
+  <strong><font size="5">📊 Minhas Estatísticas</font></strong>
 </p>
+
+<p align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=arthurSchgg&theme=tokyonight&exclude_days=Sun" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+  <br>
+
+---
+  
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&bg_color=0D1117&color=79D3C3&line=79D3C3&point=FFFFFF&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&bg_color=0D1117&color=79D3C3&line=79D3C3&point=FFFFFF&area=true&hide_border=true" />
   </a>
 </p>
 
-<h2 align="center">🧑‍💻 Meus Projetos Principais</h2>
+---
+
+<p align="center">
+  <strong><font size="5">🧑‍💻 Meus Projetos Principais</font></strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/arthurSchgg/Sistema-de-Gerenciamento-Agencia-de-Viagens">
@@ -40,7 +72,11 @@
   </a>
 </p>
 
-<h2 align="center">📫 Como me encontrar</h2>
+---
+
+<p align="center">
+  <strong><font size="5">📫 Como me encontrar</font></strong>
+</p>
 
 <p align="center">
   <a href="mailto:arthurms2904@gmail.com">
