@@ -7,10 +7,10 @@
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
 <p align="center">
-  <em>Atualmente focado em Java, Python, JavaScript e SQL.</em>
+<em>Atualmente focado em Java e SQL</em>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,flask,js,html,css,bootstrap,sql,c,cpp,github,vscode,eclipse,anaconda,arduino&theme=dark&perline=8" />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java,python,flask,js,html,css,bootstrap,sql,c,cpp,github,vscode,eclipse,anaconda,arduino&theme=dark&perline=8" />
   </a>
 </p>
 
