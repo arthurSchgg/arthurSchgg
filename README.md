@@ -18,12 +18,11 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=arthurSchgg&theme=tokyonight&exclude_days=Sun" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=arthurSchgg&theme=tokyonight&exclude_days=Sun" alt="GitHub Streak" height="138px" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="185px" />
   <br>
-  
+</p>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&bg_color=0D1117&color=79D3C3&line=79D3C3&point=FFFFFF&area=true&hide_border=true" />
   </a>
