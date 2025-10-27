@@ -1,24 +1,20 @@
-<p align="center">
-  <strong><font size="6">👋 Olá, eu sou o Arthur Miguel Schlichting</font></strong>
-</p>
-
 ---
 
 <p align="center">
+  <strong><font size="7">👋 Olá, eu sou o Arthur Miguel Schlichting</font></strong>
+</p>
+
+<p>
   🎓 Estudante do <strong><em>CentroWEG</em></strong> e do <strong><em>SENAI</em></strong> no curso de <strong><em>Desenvolvimento de Sistemas</em></strong>, com conhecimento básico em <strong><em>Inglês</em></strong>.
 </p>
 
 ---
 
-<br>
-
-<p align="center">
-  <strong><font size="5">🛠️ Tecnologias e Ferramentas</font></strong>
+<p>
+  <strong><font size="7">🛠️ Tecnologias e Ferramentas</font></strong>
 </p>
 
----
-
-<p align="center">
+<p>
   <em>Atualmente focado em Java e SQL</em>
   <br><br>
   <a href="https://skillicons.dev">
@@ -30,8 +26,8 @@
 
 ---
 
-<p align="center">
-  <strong><font size="5">📊 Minhas Estatísticas</font></strong>
+<p>
+  <strong><font size="7">📊 Minhas Estatísticas</font></strong>
 </p>
 
 <p align="center">
@@ -39,7 +35,7 @@
     <tr>
       <td valign="top">
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=arthurSchgg&theme=tokyonight&exclude_days=Sun" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=arthurSchgg&theme=tokyonight&exclude_days=Sun" alt="GitHub Streak" height="140px"/>
         </a>
       </td>
       <td valign="top">
@@ -50,7 +46,11 @@
   <br>
 
 ---
-  
+
+<p>
+  <strong><font size="5">📊 Gráfico de Atividade</font></strong>
+</p>
+
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&bg_color=0D1117&color=79D3C3&line=79D3C3&point=FFFFFF&area=true&hide_border=true" />
   </a>
