@@ -54,25 +54,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&bg_color=0D1117&color=79D3C3&line=79D3C3&point=FFFFFF&area=true&hide_border=true" />
   </a>
 </p>
-
 ---
 
-<p align="center">
-  <strong><font size="5">🧑‍💻 Meus Projetos Principais</font></strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/arthurSchgg/Sistema-de-Gerenciamento-Agencia-de-Viagens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Sistema-de-Gerenciamento-Agencia-de-Viagens&theme=tokyonight" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/arthurSchgg/Gerenciamento-de-Biblioteca">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Gerenciamento-de-Biblioteca&theme=tokyonight" />
-  </a>
-</p>
-
 ---
-
 <p align="center">
   <strong><font size="5">🔥 Streak (Dias de Contribuição)</font></strong>
 </p>
