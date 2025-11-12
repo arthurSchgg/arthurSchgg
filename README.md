@@ -29,13 +29,9 @@ Minha paixão é usar código (como Python e Java) para construir soluções pr�
 
 ### 🚀 Meus Principais Projetos
 
-Aqui você pode usar um card especial para "puxar" seus projetos fixados automaticamente. Fica bem profissional:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=NOME_DO_SEU_REPOSITORIO&theme=dracula)](https://github.com/arthurSchgg/NOME_DO_SEU_REPOSITORIO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=NOME_DO_OUTRO_REPO&theme=dracula)](https://github.com/arthurSchgg/NOME_DO_OUTRO_REPO)
-
-* **[Nome do Projeto 1](link-para-o-repo):** Uma breve descrição (1 linha) do que o projeto faz e qual tecnologia principal usou (ex: "Sistema de gerenciamento de biblioteca feito em Java e MySQL").
-* **[Nome do Projeto 2](link-para-o-repo):** "Uma API simples para cadastro de usuários usando Flask e Python."
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Sistema-de-Gerenciamento-Agencia-de-Viagens&theme=dracula)](https://github.com/arthurSchgg/Sistema-de-Gerenciamento-Agencia-de-Viagens)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Gestao-de-Turmas&theme=dracula)](https://github.com/arthurSchgg/Gestao-de-Turmas)
+#
 
 ### Onde me encontrar:
 
