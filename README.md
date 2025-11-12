@@ -1,5 +1,7 @@
 # Olá! Eu sou o Arthur Miguel Schlichting 👋 
-Sou estudante na escola *__SesiSenai__*, faço curso de *__Desenvolvimento de Sistemas__* e atualmente estou fazendo o curso de *__Tecnologia da Informação__* no *__CentroWeg__*. E tenho um breve conhecimento em inglês. 
+👋 Olá! Eu sou o Arthur Miguel Schlichting.
+Sou um entusiasta de tecnologia e futuro __*Desenvolvedor de Sistemas*__, atualmente cursando __*Desenvolvimento de Sistemas*__ no __*SesiSenai*__ e __*Tecnologia da Informação*__ no __*CentroWeg*__.
+Minha paixão é usar código (como Python e Java) para construir soluções práticas e resolver problemas. Estou sempre buscando aprender novas ferramentas e me desafiar.
 
 ### Tecnologias que tenho uma breve Experiência:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
@@ -24,6 +26,16 @@ Sou estudante na escola *__SesiSenai__*, faço curso de *__Desenvolvimento de Si
 ### Gráfico de Atividade
 ![Gráfico de Atividade ArthurSchgg](https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&theme=dracula)
 #
+
+### 🚀 Meus Principais Projetos
+
+Aqui você pode usar um card especial para "puxar" seus projetos fixados automaticamente. Fica bem profissional:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=NOME_DO_SEU_REPOSITORIO&theme=dracula)](https://github.com/arthurSchgg/NOME_DO_SEU_REPOSITORIO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=NOME_DO_OUTRO_REPO&theme=dracula)](https://github.com/arthurSchgg/NOME_DO_OUTRO_REPO)
+
+* **[Nome do Projeto 1](link-para-o-repo):** Uma breve descrição (1 linha) do que o projeto faz e qual tecnologia principal usou (ex: "Sistema de gerenciamento de biblioteca feito em Java e MySQL").
+* **[Nome do Projeto 2](link-para-o-repo):** "Uma API simples para cadastro de usuários usando Flask e Python."
 
 ### Onde me encontrar:
 
