@@ -18,11 +18,17 @@ Sou estudante na escola *__SesiSenai__*, faço curso de *__Desenvolvimento de Si
 #
 
 ### Status do GitHub do meu perfil:
-![Status do GitHub do meu perfil](https://github-readme-stats.vercel.app/api?username=arthurSchgg&showicons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=dracula)
+#
+
+### Gráfico de Atividade ArthurSchgg
+![Gráfico de Atividade ArthurSchgg](https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&theme=dracula)
 #
 
 ### Onde me encontrar:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_thursch/)&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547997695223)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurms2904@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_thursch/)&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547997695223)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurms2904@gmail.com)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-miguel-schlichting-5b360b2b3/)
 
 ![add](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+
+
