@@ -21,7 +21,7 @@ Sou estudante na escola *__SesiSenai__*, faço curso de *__Desenvolvimento de Si
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=dracula)
 #
 
-### Gráfico de Atividade ArthurSchgg
+### Gráfico de Atividade
 ![Gráfico de Atividade ArthurSchgg](https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&theme=dracula)
 #
 
