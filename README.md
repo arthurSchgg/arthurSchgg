@@ -1,5 +1,11 @@
 # Olá! Eu sou o Arthur Miguel Schlichting 👋
 
+<div align="center">
+  <img src="output-onlinegiftools-com.gif" width="300" alt="Macaco Programador">
+</div>
+
+#
+
 > Sou um entusiasta de tecnologia e futuro **_Desenvolvedor de Sistemas_**, atualmente cursando **_Desenvolvimento de Sistemas_** no **_SesiSenai_** e **_Tecnologia da Informação_** no **_CentroWeg_**.
 
 > Minha paixão é usar código (como Python e Java) para construir soluções práticas e resolver problemas. Estou sempre buscando aprender novas ferramentas e me desafiar.
