@@ -6,7 +6,7 @@
 
 #
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas que tenho um breve conhecimento
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
 ![Html](https://img.shields.io/badge/HTML-ff0000?style=for-the-badge&logo=html5&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,11 +14,14 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1E90FF?style=for-the-badge&logo=mysql&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-696969.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
 #
 
@@ -56,6 +59,10 @@
 
 > 💡"A TI é o sistema nervoso da era moderna: invisível, onipresente, e a força motriz que traduz dados em conhecimento e possibilidades infinitas para o futuro."
 #
+
+### Visitas ao meu perfil
+<img src="https://komarev.com/ghpvc/?username=arthurSchgg&label=VISITAS&color=blueviolet&style=for-the-badge" alt="Visitas ao Perfil">
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arthurSchgg/arthurSchgg/raw/output/github-contribution-grid-snake-dark.svg">
