@@ -4,7 +4,7 @@
 
 > Minha paixão é usar código (como Python e Java) para construir soluções práticas e resolver problemas. Estou sempre buscando aprender novas ferramentas e me desafiar.
 
----
+#
 
 ### 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black)
@@ -20,7 +20,7 @@
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
----
+#
 
 ### 📊 Minhas Estatísticas
 
@@ -33,14 +33,21 @@
 
 ![Gráfico de Atividade ArthurSchgg](https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&theme=dracula)
 
----
+#
 
 ### 🚀 Meus Principais Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Sistema-de-Gerenciamento-Agencia-de-Viagens&theme=dracula)](https://github.com/arthurSchgg/Sistema-de-Gerenciamento-Agencia-de-Viagens)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Gestao-de-Turmas&theme=dracula)](https://github.com/arthurSchgg/Gestao-de-Turmas)
 
----
+#
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurSchgg&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</div>
+
+#
+
 
 ### 📫 Onde me encontrar
 
