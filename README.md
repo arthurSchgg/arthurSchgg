@@ -64,6 +64,7 @@
 #
 
 > 💡"A TI é o sistema nervoso da era moderna: invisível, onipresente, e a força motriz que traduz dados em conhecimento e possibilidades infinitas para o futuro."
+
 #
 
 ### Visitas ao meu perfil
