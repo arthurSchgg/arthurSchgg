@@ -51,6 +51,8 @@
 > 💡"A TI é o sistema nervoso da era moderna: invisível, onipresente, e a força motriz que traduz dados em conhecimento e possibilidades infinitas para o futuro."
 #
 
-<div align="center">
-  <img src="https://github.com/arthurSchgg/arthurSchgg/raw/output/github-contribution-grid-snake.svg" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arthurSchgg/arthurSchgg/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/arthurSchgg/arthurSchgg/raw/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://github.com/arthurSchgg/arthurSchgg/raw/output/github-contribution-grid-snake.svg">
+</picture>
