@@ -50,13 +50,19 @@
 
 ### 🚀 Meus Principais Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Sistema-de-Gerenciamento-Agencia-de-Viagens&theme=dracula)](https://github.com/arthurSchgg/Sistema-de-Gerenciamento-Agencia-de-Viagens)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Gestao-de-Turmas&theme=dracula)](https://github.com/arthurSchgg/Gestao-de-Turmas)
+<div align="center">
+  <a href="https://github.com/arthurSchgg/Sistema-de-Gerenciamento-Agencia-de-Viagens">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Sistema-de-Gerenciamento-Agencia-de-Viagens&theme=dracula" />
+  </a>
+  <a href="https://github.com/arthurSchgg/Gestao-de-Turmas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Gestao-de-Turmas&theme=dracula" />
+  </a>
+</div>
 
 #
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurSchgg&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurSchgg&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 #
