@@ -86,3 +86,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/arthurSchgg/arthurSchgg/raw/output/github-contribution-grid-snake.svg">
   <img alt="Snake animation" src="https://github.com/arthurSchgg/arthurSchgg/raw/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00208B&height=120&section=footer"/>
