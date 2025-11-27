@@ -42,6 +42,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=dracula"/>
 </div>
 
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=arthurSchgg&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Estatísticas do Arthur" />
+</div>
+
+
 #
 
 ![Gráfico de Atividade ArthurSchgg](https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&theme=dracula)
@@ -79,7 +85,6 @@
 
 ### Visitas ao meu perfil
 <img src="https://komarev.com/ghpvc/?username=arthurSchgg&label=VISITAS&color=blueviolet&style=for-the-badge" alt="Visitas ao Perfil">
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arthurSchgg/arthurSchgg/raw/output/github-contribution-grid-snake-dark.svg">
