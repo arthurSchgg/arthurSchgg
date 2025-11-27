@@ -6,7 +6,7 @@
 
 #
 
-> Sou um entusiasta de tecnologia e futuro **_Desenvolvedor de Sistemas_**, atualmente cursando **_Desenvolvimento de Sistemas_** no **_SesiSenai_** e **_Tecnologia da Informação_** no **_CentroWeg_**.
+> Tenho grande interesse na área de **_Desenvolvedor de Sistemas_** quero seguir a minha carreira nessa área, atualmente estou cursando **_Desenvolvimento de Sistemas_** no **_SesiSenai_** e **_Tecnologia da Informação_** no **_CentroWeg_**.
 
 > Minha paixão é usar código (como Python e Java) para construir soluções práticas e resolver problemas. Estou sempre buscando aprender novas ferramentas e me desafiar.
 
