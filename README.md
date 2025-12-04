@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00208B&height=120&section=header"/>
+
 # Olá! Eu sou o Arthur Miguel Schlichting 👋
 
 <div align="center">
