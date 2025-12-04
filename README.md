@@ -14,7 +14,7 @@
 
 #
 
-### 🛠️ Tecnologias e Ferramentas que tenho um breve conhecimento
+### 🛠️ Tecnologias e Ferramentas 
 
 ### 💻 Linguagens de Programação
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
