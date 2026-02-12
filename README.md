@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um entusiasta de tecnologia focado em **transformar problemas complexos em soluções eficientes**. Com uma base sólida em **Java e Python**, busco criar softwares que agreguem valor real através de código limpo e análise de dados.
+Sou um entusiasta de tecnologia focado em **transformar problemas complexos em soluções eficientes**. Com um conhecimento médio em **Java e Python**, busco criar softwares que agreguem valor real através de código limpo e análise de dados.
 
 - 🎓 **Formação:** Desenvolvimento de Sistemas (SesiSenai) | TI (CentroWeg)
 - 🎯 **Objetivo:** Engenharia de software e análise de dados
