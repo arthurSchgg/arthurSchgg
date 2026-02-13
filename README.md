@@ -14,7 +14,8 @@
 
 Sou um entusiasta de tecnologia focado em **transformar problemas complexos em soluções eficientes**. Com um conhecimento médio em **Java e Python**, busco criar softwares que agreguem valor real através de código limpo e análise de dados.
 
-- 🎓 **Formação:** Desenvolvimento de Sistemas (SesiSenai) | TI (CentroWeg)
+- 🎓 **Formação:** Desenvolvimento de Sistemas (SesiSenai)
+- 👨‍🎓 **Cursando:** TI (CentroWeg)
 - 🎯 **Objetivo:** Engenharia de software e análise de dados
 - 💡 **Filosofia:** "Transformando dados em possibilidades."
 
