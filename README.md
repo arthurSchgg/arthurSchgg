@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um desenvolvedor focado em **transformar problemas complexos em soluções eficientes**. Com sólida base em **Java e Python**, busco criar softwares que agreguem valor real através de código limpo, automação e análise de dados.
+Sou um desenvolvedor focado em **transformar problemas complexos em soluções eficientes**. Com base em **Java e Python**, busco criar softwares que agreguem valor real através de código limpo, automação e análise de dados.
 
 - 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (Concluído - SesiSenai)
 - 👨‍💻 **Atuação Atual:** TI no **CentroWeg**
