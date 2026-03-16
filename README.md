@@ -33,7 +33,7 @@ Sou um desenvolvedor focado em **transformar problemas complexos em soluções e
 ### 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=dracula" />
 </div>
 
