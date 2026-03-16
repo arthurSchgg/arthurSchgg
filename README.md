@@ -5,19 +5,18 @@
 <div align="center">
   <img src="output-onlinegiftools-com.gif" width="300" alt="Macaco Programador">
   <h1>Olá, eu sou o Arthur Miguel Schlichting! 👋</h1>
-  <p><i>Desenvolvedor de Sistemas em formação pelo SesiSenai & CentroWeg</i></p>
+  <p><i>Desenvolvedor de Sistemas | Formado pelo SesiSenai & Atuando no CentroWeg</i></p>
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
 
-Sou um entusiasta de tecnologia focado em **transformar problemas complexos em soluções eficientes**. Com um conhecimento médio em **Java e Python**, busco criar softwares que agreguem valor real através de código limpo e análise de dados.
+Sou um desenvolvedor focado em **transformar problemas complexos em soluções eficientes**. Com sólida base em **Java e Python**, busco criar softwares que agreguem valor real através de código limpo, automação e análise de dados.
 
-- 🎓 **Formação:** Desenvolvimento de Sistemas (SesiSenai)
-- 👨‍🎓 **Cursando:** TI (CentroWeg)
-- 🎯 **Objetivo:** Engenharia de software e análise de dados
-- 💡 **Filosofia:** "Transformando dados em possibilidades."
+- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (Concluído - SesiSenai)
+- 👨‍💻 **Atuação Atual:** TI no **CentroWeg**
+- 🎯 **Objetivo:** Evoluir em Desenvolvimento de Sistemas, Análise de Dados e Engenharia de Software
 
 ---
 
