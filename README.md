@@ -54,8 +54,8 @@ Sou um desenvolvedor focado em **transformar problemas complexos em soluções e
 ### 📂 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/arthurSchgg/Sistema-de-Gerenciamento-Agencia-de-Viagens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Sistema-de-Gerenciamento-Agencia-de-Viagens&theme=dracula" />
+  <a href="https://github.com/arthurSchgg/Projeto-Final-Senai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Projeto-Final-Senai&theme=dracula" />
   </a>
   <a href="https://github.com/arthurSchgg/Gestao-de-Turmas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Gestao-de-Turmas&theme=dracula" />
