@@ -1,11 +1,10 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00208B&height=150&section=header&text=&fontSize=50&animation=fadeIn&fontAlignY=40"/>
 </p>
-
 <div align="center">
-  <img src="output-onlinegiftools-com.gif" width="280" alt="Programming Monkey">
-  <h1>Hi, I'm Arthur Miguel Schlichting! 👋</h1>
-  <p><i>Systems Developer | Graduated from SesiSenai & Currently at CentroWeg</i></p>
+  <img src="output-onlinegiftools-com.gif" width="280" alt="Macaco Programando">
+  <h1>Olá, eu sou Arthur Miguel Schlichting! 👋</h1>
+  <p><i>Desenvolvedor de Sistemas | Formado pelo SesiSenai & Atualmente no CentroWeg</i></p>
   
   <a href="https://www.linkedin.com/in/arthur-miguel-schlichting-5b360b2b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:arthurms2904@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -13,49 +12,45 @@
 </div>
 
 ---
-
-### 🚀 About Me
-
-I am a developer focused on **transforming complex problems into efficient solutions**. Working primarily with **Java and Python**, I strive to create software that adds real value through clean code, automation, and data analysis.
-
-* 🎓 **Education:** Systems Development Technician (SesiSenai)
-* 👨‍💻 **Current Role:** IT at **CentroWeg**
-* 🎯 **Goal:** Software Engineering and Data Analysis
-
+ 
+### 🚀 Sobre Mim
+ 
+Sou um desenvolvedor focado em **transformar problemas complexos em soluções eficientes**. Trabalhando principalmente com **Java e Python**, me esforço para criar softwares que agreguem valor real por meio de código limpo, automação e análise de dados.
+ 
+* 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (SesiSenai)
+* 👨‍💻 **Cargo Atual:** TI no **CentroWeg**
+* 🎯 **Objetivo:** Engenharia de Software e Análise de Dados
 ---
-
-### 🛠️ Technologies and Tools
-
-| Category | Technologies | Level |
+ 
+### 🛠️ Tecnologias e Ferramentas
+ 
+| Categoria | Tecnologias | Nível |
 | :--- | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Intermediate |
-| **Languages** | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Basic |
-| **Web** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) | Basic |
-| **Data** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) | Intermediate / Basic |
-| **DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white) | Intermediate / Basic |
-| **Testing & Design** | ![Robot Framework](https://img.shields.io/badge/-Robot-000000?logo=robotframework&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) | Basic |
-
+| **Linguagens** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Intermediário |
+| **Linguagens** | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Básico |
+| **Web** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) | Básico |
+| **Dados** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) | Intermediário / Básico |
+| **DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white) | Intermediário / Básico |
+| **Testes & Design** | ![Robot Framework](https://img.shields.io/badge/-Robot-000000?logo=robotframework&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) | Básico |
+ 
 ---
-
-### 📊 Stats and Activity
-
+ 
+### 📊 Estatísticas e Atividade
+ 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=dracula" />
 </div>
-
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurSchgg&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&theme=dracula&area=true&hide_border=true" width="100%" />
 </p>
-
 ---
-
-### 📂 Featured Projects
-
+ 
+### 📂 Projetos em Destaque
+ 
 <div align="center">
   <a href="https://github.com/arthurSchgg/Projeto-Final-Senai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Projeto-Final-Senai&theme=dracula" />
@@ -64,15 +59,13 @@ I am a developer focused on **transforming complex problems into efficient solut
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Gestao-de-Turmas&theme=dracula" />
   </a>
 </div>
-
 ---
-
+ 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arthurSchgg&label=VISITS&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=arthurSchgg&label=VISITAS&color=blueviolet&style=for-the-badge" />
   <br><br>
-  <img src="https://github.com/arthurSchgg/arthurSchgg/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github.com/arthurSchgg/arthurSchgg/raw/output/github-contribution-grid-snake-dark.svg" alt="Animação da Cobrinha" />
 </div>
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00208B&height=100&section=footer"/>
 </p>
