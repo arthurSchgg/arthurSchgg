@@ -26,8 +26,6 @@ I am a developer focused on **transforming complex problems into efficient solut
 
 ### 🛠️ Technologies and Tools
 
-### 🛠️ Technologies and Tools
-
 | Category | Technologies | Level |
 | :--- | :--- | :--- |
 | **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Intermediate |
