@@ -18,7 +18,7 @@
 Sou um desenvolvedor focado em **transformar problemas complexos em soluções eficientes**. Trabalhando principalmente com **Java e Python**, me esforço para criar softwares que agreguem valor real por meio de código limpo, automação e análise de dados.
  
 * 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (SesiSenai)
-* 👨‍💻 **Cargo Atual:** TI no **CentroWeg**
+* 👨‍💻 **Cargo Atual:** Curso TI no **CentroWeg**
 * 🎯 **Objetivo:** Engenharia de Software e Análise de Dados
 
 ---
