@@ -53,19 +53,6 @@ Sou um desenvolvedor focado em **transformar problemas complexos em soluções e
 
 ---
  
-### 📂 Projetos em Destaque
- 
-<div align="center">
-  <a href="https://github.com/arthurSchgg/Projeto-Final-Senai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Projeto-Final-Senai&theme=dracula" />
-  </a>
-  <a href="https://github.com/arthurSchgg/Gestao-de-Turmas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurSchgg&repo=Gestao-de-Turmas&theme=dracula" />
-  </a>
-</div>
-
----
- 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arthurSchgg&label=VISITAS&color=blueviolet&style=for-the-badge" />
 </div>
