@@ -12,19 +12,19 @@
 </div>
 
 ---
- 
+
 ### 🚀 Sobre Mim
- 
+
 Sou um desenvolvedor focado em **transformar problemas complexos em soluções eficientes**. Trabalhando principalmente com **Java e Python**, me esforço para criar softwares que agreguem valor real por meio de código limpo, automação e análise de dados.
- 
+
 * 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (SesiSenai)
 * 👨‍💻 **Cargo Atual:** Curso de TI no **CentroWeg**
 * 🎯 **Objetivo:** Engenharia de Software e Análise de Dados
 
 ---
- 
+
 ### 🛠️ Tecnologias e Ferramentas
- 
+
 | Categoria | Tecnologias | Nível |
 | :--- | :--- | :--- |
 | **Linguagens** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Intermediário |
@@ -35,28 +35,29 @@ Sou um desenvolvedor focado em **transformar problemas complexos em soluções e
 | **Testes & Design** | ![Robot Framework](https://img.shields.io/badge/-Robot-000000?logo=robotframework&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) | Básico |
 
 ---
- 
+
 ### 📊 Estatísticas e Atividade
- 
+
 <div align="center">
   <a href="https://www.codewars.com/users/arthurSchgg" target="_blank">
     <img src="https://www.codewars.com/users/arthurSchgg/badges/large" alt="Codewars Badge" />
   </a>
   <br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=dracula&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=dracula" />
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurSchgg&theme=dracula" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=dracula&hide_border=true" />
+
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=arthurSchgg&theme=dracula&hide_border=true" alt="GitHub Streak" />
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&theme=dracula&hide_border=true&area=true" alt="Gráfico de Atividade" />
 </div>
 
 ---
- 
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arthurSchgg&label=VISITAS&color=blueviolet&style=for-the-badge" />
 </div>
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00208B&height=100&section=footer"/>
 </p>
