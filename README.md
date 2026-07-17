@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=210&amp;section=header&amp;text=Arthur%20Miguel%20Schlichting&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Dev%20de%20Sistemas%20%7C%20Java%20%26%20Python&amp;descAlignY=55&amp;descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:203A43,100:2C5364&amp;height=210&amp;section=header&amp;text=Arthur%20Miguel%20Schlichting&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Dev%20de%20Sistemas%20%7C%20Java%20e%20Python&amp;descAlignY=55&amp;descSize=18"/>
 </p>
 
 <div align="center">
@@ -65,14 +65,14 @@ Sou dev focado em **transformar problema complexo em solução simples e eficien
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/-Robot-000000?style=flat-square&amp;logo=robotframework&amp;logoColor=white)
 
-</td>
-</tr>
-</table>
-
-**Redes &amp; Hardware** <sub>· nível básico, aprendendo</sub>
+**Redes &amp; Hardware**
 <br/>
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&amp;logo=cisco&amp;logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&amp;logo=arduino&amp;logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
