@@ -28,7 +28,13 @@
 ### 💻 TECHNICAL_RESOURCES
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,mysql,git,docker,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,mysql,sqlite,bootstrap,git,docker,figma,arduino,c,cpp,anaconda&theme=dark&perline=16" />
+</div>
+
+<div align="center">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/pandas/150458" title="Pandas"/>
+  <img height="48" width="48" src="https://cdn.simpleicons.org/jupyter/F37626" title="Jupyter"/>
+  <img height="48" width="48" src="https://cdn.simpleicons.org/cisco/1BA0D7" title="Cisco"/>
 </div>
 
 ---
