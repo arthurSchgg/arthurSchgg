@@ -75,13 +75,13 @@ focus: ["Java", "Python", "MVC", "Automação"]
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com/?user=arthurSchgg&theme=highcontrast&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+  <img width="80%" src="./metrics.svg" alt="Metrics" />
 
   <br/><br/>
 
-  <img width="100%" src="./metrics.svg" alt="Metrics" />
+   <img src="https://streak-stats.demolab.com/?user=arthurSchgg&theme=highcontrast&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
 
-  <br/><br/>
+   <br/><br/>
 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&theme=github-dark&hide_border=true&area=true&color=00FF41&line=00FF41&point=ffffff" alt="Gráfico de Atividade" />
 
