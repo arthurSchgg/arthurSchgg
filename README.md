@@ -65,11 +65,9 @@ focus: ["Java", "Python", "MVC", "Automação"]
 
 ---
 
+### 📈 CONTRIBUTION_FLOW
+
 <div align="center">
-
-  <img width="100%" src="./metrics.svg" alt="Metrics" />
-
-  <br/><br/>
 
   <a href="https://www.codewars.com/users/arthurSchgg" target="_blank">
     <img src="https://www.codewars.com/users/arthurSchgg/badges/large" alt="Codewars Badge" />
@@ -77,12 +75,15 @@ focus: ["Java", "Python", "MVC", "Automação"]
 
   <br/><br/>
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&rank_icon=github" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSchgg&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=arthurSchgg&theme=highcontrast&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com/?user=arthurSchgg&theme=highcontrast&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+  <img width="100%" src="./metrics.svg" alt="Metrics" />
+
+  <br/><br/>
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&theme=github-dark&hide_border=true&area=true&color=00FF41&line=00FF41&point=ffffff" alt="Gráfico de Atividade" />
 
 </div>
 
