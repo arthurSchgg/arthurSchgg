@@ -16,24 +16,13 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # ---- tema hacker/terminal ----
+          # ---- tema hacker/terminal (minimalista) ----
           config_timezone: America/Sao_Paulo
-          plugin_base: base
           base: header, activity
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_visibility: public
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 15
-          plugin_languages_recent_categories: language, markup
           plugin_languages_details: bytes-size
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 14
 
-          # cores customizadas em cima do tema base
           config_display: large
           config_theme: dark
