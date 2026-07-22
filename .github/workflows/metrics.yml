@@ -14,7 +14,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          template: terminal
           token: ${{ secrets.METRICS_TOKEN }}
 
           # ---- tema hacker/terminal (minimalista) ----
