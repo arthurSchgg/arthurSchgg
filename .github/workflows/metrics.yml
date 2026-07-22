@@ -25,4 +25,3 @@ jobs:
           plugin_languages_details: bytes-size
 
           config_display: large
-          config_theme: dark
