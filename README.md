@@ -3,10 +3,10 @@
 </p>
 
 <div align="center">
-  <img src="output-onlinegiftools-com.gif" width="230" alt="Macaco Programando" />
+  <img src="output-onlinegiftools-com.gif" width="200" alt="Macaco Programando" />
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=%3E%3E+booting+arthurSchgg.exe...;%3E%3E+Java+%7C+Python+%7C+MVC;%3E%3E+building+scalable+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=%3E%3E+booting+arthurSchgg.exe...;%3E%3E+Java+%7C+Python+%7C+MVC;%3E%3E+building+scalable+solutions" alt="Typing SVG" />
   </p>
 
   <a href="https://arthurschgg-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41" /></a>
@@ -21,47 +21,15 @@
 
 ### 📑 SYSTEM_CORE
 
-> Estudante de Sistemas na CentroWEG. Formado em Técnico em Desenvolvimento de Sistemas pelo SENAI/SC. Trabalho principalmente com Java e Python, arquitetura MVC e automação.
-
-```yaml
-formation: "Técnico em Desenvolvimento de Sistemas — SENAI/SC [CONCLUÍDO]"
-current: "Sistemas de Informação — CentroWEG [EM ANDAMENTO]"
-focus: ["Java", "Python", "MVC", "Automação"]
-```
+> Estudante de Sistemas na CentroWEG · Técnico em Desenvolvimento de Sistemas pelo SENAI/SC · Java, Python, arquitetura MVC e automação.
 
 ---
 
 ### 💻 TECHNICAL_RESOURCES
 
-<br/>
-
 <div align="center">
-  <table border="0" style="border-collapse: collapse;">
-    <tr>
-      <td align="left" style="padding-right: 40px;">
-        <strong>◈ LANGUAGES_CORE</strong><br/>
-        <img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
-      </td>
-      <td align="left">
-        <strong>◈ WEB_LAYER</strong><br/>
-        <img src="https://skillicons.dev/icons?i=html,css,flask&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td align="left" style="padding-top: 20px; padding-right: 40px;">
-        <strong>◈ DATA_AND_DEVOPS</strong><br/>
-        <img src="https://skillicons.dev/icons?i=mysql,git,docker,anaconda,figma&theme=dark" />
-      </td>
-      <td align="left" style="padding-top: 20px;">
-        <strong>◈ HARDWARE_AND_NETWORK</strong><br/>
-        <img src="https://skillicons.dev/icons?i=arduino&theme=dark" style="vertical-align: middle;" />
-        <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" height="48" style="vertical-align: middle; margin-left: 6px; background:#1a1a2e; border-radius: 8px; padding: 10px;" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,mysql,git,docker,figma&theme=dark" />
 </div>
-
-<br/>
 
 ---
 
@@ -73,26 +41,18 @@ focus: ["Java", "Python", "MVC", "Automação"]
     <img src="https://www.codewars.com/users/arthurSchgg/badges/large" alt="Codewars Badge" />
   </a>
 
-  <br/><br/>
+  <br/>
 
   <img width="80%" src="./metrics.svg" alt="Metrics" />
 
-  <br/><br/>
+  <br/>
 
-   <img src="https://streak-stats.demolab.com/?user=arthurSchgg&theme=highcontrast&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=arthurSchgg&theme=highcontrast&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
 
-   <br/><br/>
+  <br/>
 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&theme=github-dark&hide_border=true&area=true&color=00FF41&line=00FF41&point=ffffff" alt="Gráfico de Atividade" />
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=400&lines=System.status+%3D+%27Online%27;_%3E+arthurSchgg.build.stable" alt="Typing SVG" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=arthurSchgg&color=00FF41&style=flat-square&label=PROFILE_VIEW_LOGS" />
 </div>
 
 <p align="center">
