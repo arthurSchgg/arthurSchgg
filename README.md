@@ -43,7 +43,7 @@
 
   <br/>
 
-  <img width="80%" src="./metrics.svg" alt="Metrics" />
+  <img width="90%" src="./metrics.svg" alt="Metrics" />
 
   <br/>
 
