@@ -4,11 +4,9 @@
 
 <div align="center">
   <img src="output-onlinegiftools-com.gif" width="200" alt="Macaco Programando" />
-
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=%3E%3E+booting+arthurSchgg.exe...;%3E%3E+Java+%7C+Python+%7C+MVC;%3E%3E+building+scalable+solutions" alt="Typing SVG" />
   </p>
-
   <a href="https://arthurschgg-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=00FF41" /></a>
   <a href="https://www.linkedin.com/in/arthur-miguel-schlichting-5b360b2b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
   <a href="mailto:arthurms2904@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
@@ -20,13 +18,11 @@
 ---
 
 ### 📑 SYSTEM_CORE
-
 > Estudante de Sistemas na CentroWEG · Técnico em Desenvolvimento de Sistemas pelo SENAI/SC · Java, Python, arquitetura MVC e automação.
 
 ---
 
 ### 💻 TECHNICAL_RESOURCES
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,mysql,sqlite,bootstrap,git,docker,figma,arduino,c,cpp,anaconda&theme=dark&perline=16" />
 </div>
@@ -40,25 +36,12 @@
 ---
 
 ### 📈 CONTRIBUTION_FLOW
-
 <div align="center">
-
-  <a href="https://www.codewars.com/users/arthurSchgg" target="_blank">
-    <img src="https://www.codewars.com/users/arthurSchgg/badges/large" alt="Codewars Badge" />
-  </a>
-
-  <br/>
-
   <img width="90%" src="./metrics.svg" alt="Metrics" />
-
   <br/>
-
-  <img src="https://streak-stats.demolab.com/?user=arthurSchgg&theme=highcontrast&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
-
+  <img src="https://streak-stats.demolab.com/?user=arthurSchgg&theme=highcontrast&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
   <br/>
-
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arthurSchgg&theme=github-dark&hide_border=true&area=true&color=00FF41&line=00FF41&point=ffffff" alt="Gráfico de Atividade" />
-
 </div>
 
 <p align="center">
