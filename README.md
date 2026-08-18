@@ -41,8 +41,6 @@ Java • Python • Flask • SQL (MySQL/SQLite) • HTML/CSS • JavaScript •
 - Flask — Mini rede social/contact list em Flask (deploy disponível).  
 - AtividadeBlogFrontEnd — Front‑end responsivo de blog.
 
-> Dica: fixe esses 6 repositórios; mantenha os exercícios pequenos como privados ou marque-os como "exercício" no README.
-
 ---
 
 ## Como navegar pelos meus repositórios
