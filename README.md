@@ -25,7 +25,7 @@
 ### 💻 TECHNICAL_RESOURCES
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,mysql,sqlite,bootstrap,git,docker,figma,arduino,c,cpp,anaconda&theme=dark&perline=16" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,mysql,bootstrap,git,docker,figma,c,cpp,anaconda&theme=dark&perline=16" />
 </div>
 
 ---
