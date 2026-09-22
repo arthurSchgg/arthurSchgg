@@ -18,7 +18,7 @@
 
 ### 📑 SYSTEM_CORE
 
-> Estudante de Sistemas na CentroWEG · Técnico em Desenvolvimento de Sistemas pelo SENAI/SC · Java, Python, arquitetura MVC e automação.
+> Systems Student at CentroWEG · Systems Development Technician from SENAI/SC · Java, Python, MVC architecture, and automation.
 
 ---
 
