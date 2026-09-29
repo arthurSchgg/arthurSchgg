@@ -16,13 +16,13 @@
   
 ---
 
-### 📑 SYSTEM_CORE
+### SYSTEM_CORE
 
 > Systems Student at CentroWEG · Systems Development Technician from SENAI/SC · Java, Python, MVC architecture, and automation.
 
 ---
 
-### 💻 DEVELOPING_SKILLS
+### DEVELOPING_SKILLS
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,mysql,bootstrap,git,docker,figma&theme=dark&perline=16" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 📈 CONTRIBUTION_FLOW
+### CONTRIBUTION_FLOW
 
 <div align="center">
 
