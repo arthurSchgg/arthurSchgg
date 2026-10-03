@@ -25,7 +25,7 @@
 ### DEVELOPING_SKILLS
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,mysql,bootstrap,git,docker,figma&theme=dark&perline=16" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,flask,mysql,git,docker,figma&theme=dark&perline=16" />
 </div>
 
 ---
